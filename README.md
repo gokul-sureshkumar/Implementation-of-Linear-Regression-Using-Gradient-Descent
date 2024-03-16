@@ -38,8 +38,8 @@ Algorithm for Linear Regression Model
 ## Program:
 ```py
 #Program to implement the linear regression using gradient descent.
-#Developed by: Sanjay Ragavendar M K 
-#RegisterNumber:  212222100045
+#Developed by: GOKUL S
+#RegisterNumber:  212222110011
 ```
 ### Linear Regression Function
 ```py
